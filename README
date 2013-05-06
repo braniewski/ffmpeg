@@ -19,14 +19,6 @@ FFmpeg README
 
 4) My personal configuration
 
-ffmpeg
-======
-
-Hyper fast Audio and Video encoder
-
-
-
-
 ffmpeg version N-51201-g4aa8503 Copyright (c) 2000-2013 the FFmpeg developers
 
   built on Apr 16 2013 18:32:18 with gcc 4.7 (Debian 4.7.2-5)

@@ -17,7 +17,11 @@ FFmpeg README
 
 * See the INSTALL file.
 
-4) My personal configuration
+4) Install depts
+
+apt-get install yasm deb-multimedia-keyring libfaac-dev  libgsm1-dev  libmp3lame-dev  libtheora-dev  libvorbis-dev  libx264-dev  libxvidcore-dev  libx11-dev   libxext-dev   libxfixes-dev  
+
+5) My personal configuration
 
 ffmpeg version N-51201-g4aa8503 Copyright (c) 2000-2013 the FFmpeg developers
 
